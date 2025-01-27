@@ -1,12 +1,77 @@
 <x-app-layout>
 
-    <!-- Page Header Start -->
-    <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s" style=" background: linear-gradient(rgba(3, 27, 78, .3), rgba(3, 27, 78, .3)), url({{asset('assets/images/testimonial.jpg')}}) center center no-repeat;">
-        <div class="container text-center py-5 mt-4">
-            <h1 class="display-2 text-white mb-3 animated slideInDown">LMandal Lab</h1>
+    <!-- Carousel Start -->
+    <div class="container-fluid header-carousel px-0 mb-5">
+        <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img class="w-100" style="height: 500px; object-fit: cover" src="{{asset('assets/images/banner/1.png')}}" alt="Image">
+                    <div class="carousel-caption">
+                        <div class="container">
+                            <div class="row justify-content-start">
+                                <div class="col-lg-7 text-start">
+                                    <h1 class="display-1 text-white animated slideInRight mb-3">Genetics Laboratory at IISER (MOHALI)</h1>
+{{--                                    <p class="mb-5 animated slideInRight">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue, iaculis id elit eget, ultrices pulvinar tortor. Quisque vel lorem porttitor, malesuada arcu quis, fringilla risus.</p>--}}
+{{--                                    <a href="index.html" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a>--}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img class="w-100" style="height: 500px; object-fit: cover" src="{{asset('assets/images/banner/2.png')}}" alt="Image">
+                    <div class="carousel-caption">
+                        <div class="container">
+                            <div class="row justify-content-end">
+                                <div class="col-lg-7 text-end">
+                                    <h1 class="display-1 text-white animated slideInLeft mb-3">Genetics Laboratory at IISER (MOHALI)</h1>
+{{--                                    <p class="mb-5 animated slideInLeft">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue, iaculis id elit eget, ultrices pulvinar tortor. Quisque vel lorem porttitor, malesuada arcu quis, fringilla risus.</p>--}}
+{{--                                    <a href="index.html" class="btn btn-primary py-3 px-5 animated slideInLeft">Explore More</a>--}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item ">
+                    <img class="w-100" style="height: 500px; object-fit: cover" src="{{asset('assets/images/banner/3.png')}}" alt="Image">
+                    <div class="carousel-caption">
+                        <div class="container">
+                            <div class="row justify-content-start">
+                                <div class="col-lg-7 text-start">
+                                    <h1 class="display-1 text-white animated slideInRight mb-3">Genetics Laboratory at IISER (MOHALI)</h1>
+                                    {{--                                    <p class="mb-5 animated slideInRight">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue, iaculis id elit eget, ultrices pulvinar tortor. Quisque vel lorem porttitor, malesuada arcu quis, fringilla risus.</p>--}}
+                                    {{--                                    <a href="index.html" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a>--}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img class="w-100" style="height: 500px; object-fit: cover" src="{{asset('assets/images/banner/4.png')}}" alt="Image">
+                    <div class="carousel-caption">
+                        <div class="container">
+                            <div class="row justify-content-end">
+                                <div class="col-lg-7 text-end">
+                                    <h1 class="display-1 text-white animated slideInLeft mb-3">Genetics Laboratory at IISER (MOHALI)</h1>
+                                    {{--                                    <p class="mb-5 animated slideInLeft">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue, iaculis id elit eget, ultrices pulvinar tortor. Quisque vel lorem porttitor, malesuada arcu quis, fringilla risus.</p>--}}
+                                    {{--                                    <a href="index.html" class="btn btn-primary py-3 px-5 animated slideInLeft">Explore More</a>--}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#header-carousel" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
         </div>
     </div>
-    <!-- Page Header End -->
+    <!-- Carousel End -->
 
     <!-- About Start -->
     <div class="container-fluid py-5">
@@ -35,26 +100,28 @@
                     </div>
                 </div>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="display-6 mb-4">Trusted Lab Experts and Latest Lab Technologies</h1>
-                    <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue, iaculis id elit eget, ultrices pulvinar tortor. Quisque vel lorem porttitor, malesuada arcu quis, fringilla risus. Pellentesque eu consequat augue.</p>
-                        <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
-                            <div class="carousel-inner">
-                                <div class="carousel-item active">
-                                    <img class="w-100" src="{{asset('assets/images/carousel-1.jpg')}}" alt="Image">
-                                </div>
-                                <div class="carousel-item">
-                                    <img class="w-100" src="{{asset('assets/images/carousel-2.jpg')}}" alt="Image">
-                                </div>
-                            </div>
-                            <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev">
-                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Previous</span>
-                            </button>
-                            <button class="carousel-control-next" type="button" data-bs-target="#header-carousel" data-bs-slide="next">
-                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                <span class="visually-hidden">Next</span>
-                            </button>
-                        </div>
+                    <h1 class="display-6 mb-4">Genetics Laboratory at IISER (MOHALI)</h1>
+                    <p class="mb-4">Developmental  Genetics  Laboratory  at  IISER  (MOHALI)  is  interested  in  Hematopoiesis, Cardiogenesis and Molecular pathways in stem and progenitor cell development.</p>
+                    <p class="mb-4"><u>Ongoing Project:</u> Molecular genetic dissection of signaling pathways involved in hematopoietic niche maintenance in Drosophila. A proposal funded by WELLCOME DBT Alliance.</p>
+                    <p class="mb-4">Stem cells are the source of virtually all highly differentiated cells that are replenished during the lifetime of an animal. The critical balance between stem and differentiated cell populations is crucial  for  the  long-term  maintenance  of  functional  tissue  types. A microenvironment  that  is supportive of stem cells is commonly referred to as a stem cell niche. Although, several signaling molecules emanating from the niche has been identified for regulation of stem cell state and function, the information regarding niche maintenance is still in its infancy. We are interested to know the mechanistic basis of niche maintenance.</p>
+{{--                        <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">--}}
+{{--                            <div class="carousel-inner">--}}
+{{--                                <div class="carousel-item active">--}}
+{{--                                    <img class="w-100" src="{{asset('assets/images/carousel-1.jpg')}}" alt="Image">--}}
+{{--                                </div>--}}
+{{--                                <div class="carousel-item">--}}
+{{--                                    <img class="w-100" src="{{asset('assets/images/carousel-2.jpg')}}" alt="Image">--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                            <button class="carousel-control-prev" type="button" data-bs-target="#header-carousel" data-bs-slide="prev">--}}
+{{--                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>--}}
+{{--                                <span class="visually-hidden">Previous</span>--}}
+{{--                            </button>--}}
+{{--                            <button class="carousel-control-next" type="button" data-bs-target="#header-carousel" data-bs-slide="next">--}}
+{{--                                <span class="carousel-control-next-icon" aria-hidden="true"></span>--}}
+{{--                                <span class="visually-hidden">Next</span>--}}
+{{--                            </button>--}}
+{{--                        </div>--}}
                 </div>
             </div>
         </div>

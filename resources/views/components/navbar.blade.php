@@ -26,15 +26,15 @@
                 <i class="bi bi-telephone-inbound fs-2"></i>
                 <div class="ms-3">
                     <h5 class="text-white mb-0">Call Now</h5>
-                    <span>+012 345 6789</span>
+                    <span>+91-172-0000000</span>
                 </div>
             </div>
-            <a href="{{route('index')}}" class="h1 text-white mb-0">LMandal<span class="text-dark">&nbsp Lab</span></a>
+            <a href="{{route('index')}}" class="h1 text-white mb-0">Lolitika Mandal <span class="text-dark">Lab</span></a>
             <div class="d-flex">
                 <i class="bi bi-envelope fs-2"></i>
                 <div class="ms-3">
                     <h5 class="text-white mb-0">Mail Now</h5>
-                    <span>info@example.com</span>
+                    <span>lab@lolitikamlab.in</span>
                 </div>
             </div>
         </div>
@@ -48,7 +48,7 @@
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light bg-white py-lg-0 px-lg-3">
             <a href="{{route('index')}}" class="navbar-brand d-lg-none">
-                <h1 class="text-primary m-0">LMandal<span class="text-dark">&nbsp Lab</span></h1>
+                <h1 class="text-primary m-0">Lolitika Mandal <span class="text-dark">Lab</span></h1>
             </a>
             <button type="button" class="navbar-toggler me-0" data-bs-toggle="collapse"
                     data-bs-target="#navbarCollapse">
