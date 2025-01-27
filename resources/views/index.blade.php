@@ -3,7 +3,7 @@
     <!-- Page Header Start -->
     <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s" style=" background: linear-gradient(rgba(3, 27, 78, .3), rgba(3, 27, 78, .3)), url({{asset('assets/images/testimonial.jpg')}}) center center no-repeat;">
         <div class="container text-center py-5 mt-4">
-            <h1 class="display-2 text-white mb-3 animated slideInDown">IISER Lab</h1>
+            <h1 class="display-2 text-white mb-3 animated slideInDown">LMandal Lab</h1>
         </div>
     </div>
     <!-- Page Header End -->
@@ -98,5 +98,5 @@
     </div>
     <!-- Features End -->
 
- 
+
 </x-app-layout>

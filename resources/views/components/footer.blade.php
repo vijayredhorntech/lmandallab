@@ -4,7 +4,7 @@
         <div class="row g-5 py-5">
             <div class="col-lg-6 pe-lg-5">
                 <a href="{{route('index')}}" class="navbar-brand">
-                    <h1 class="h1 text-primary mb-0">IISER<span class="text-white">lab</span></h1>
+                    <h1 class="h1 text-primary mb-0">LMandal<span class="text-white">&nbsp Lab</span></h1>
                 </a>
 {{--                <p class="fs-5 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue, iaculis id elit eget, ultrices pulvinar tortor.</p>--}}
                 <p><i class="fa fa-map-marker-alt me-2"></i>IISER Mohali</p>
@@ -52,7 +52,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 text-center text-md-start">
-                <p class="mb-0">&copy; <a href="{{route('index')}}">IISER_lab</a>. All Rights Reserved.</p>
+                <p class="mb-0">&copy; <a href="{{route('index')}}">LMandal_Lab</a>. All Rights Reserved.</p>
             </div>
             <div class="col-md-6 text-center text-md-end">
                 <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
