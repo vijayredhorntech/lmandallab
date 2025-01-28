@@ -6,16 +6,10 @@
                 <a href="{{route('index')}}" class="navbar-brand">
                     <h1 class="h1 text-primary mb-0">Lolitika Mandal <span class="text-white">Lab</span></h1>
                 </a>
-{{--                <p class="fs-5 mb-4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue, iaculis id elit eget, ultrices pulvinar tortor.</p>--}}
                 <p><i class="fa fa-map-marker-alt me-2"></i>AB-I, IISER Mohali Punjab, INDIA</p>
                 <p><i class="fa fa-phone-alt me-2"></i>+91-172-0000000</p>
                 <p><i class="fa fa-envelope me-2"></i>lab@lolitikamlab.in</p>
-{{--                <div class="d-flex mt-4">--}}
-{{--                    <a class="btn btn-lg-square btn-primary me-2" href="{{route('index)}}"><i class="fab fa-twitter"></i></a>--}}
-{{--                    <a class="btn btn-lg-square btn-primary me-2" href="{{route('index)}}"><i class="fab fa-facebook-f"></i></a>--}}
-{{--                    <a class="btn btn-lg-square btn-primary me-2" href="{{route('index)}}"><i class="fab fa-linkedin-in"></i></a>--}}
-{{--                    <a class="btn btn-lg-square btn-primary me-2" href="{{route('index)}}"><i class="fab fa-instagram"></i></a>--}}
-{{--                </div>--}}
+                <h1 class="h3 text-primary mb-0">Visitors Count: <span class="text-white" id="visitor-count">Loading...</span></h1>
             </div>
             <div class="col-lg-6 ps-lg-5">
                 <div class="row g-5">
@@ -62,3 +56,28 @@
     </div>
 </div>
 <!-- Copyright End -->
+
+
+
+<script>
+    // Visitor counter logic with multiplier
+    document.addEventListener('DOMContentLoaded', function () {
+        const visitorKey = 'website-visitor-counter';
+        let visitorCount = localStorage.getItem(visitorKey);
+
+        if (!visitorCount) {
+            visitorCount = 1; // Initialize the count
+        } else {
+            visitorCount = parseInt(visitorCount) + 1; // Increment the count
+        }
+
+        // Save the updated count to localStorage
+        localStorage.setItem(visitorKey, visitorCount);
+
+        // Multiply the visitor count by 1000
+        const displayCount = visitorCount + 1000;
+
+        // Update the counter display
+        document.getElementById('visitor-count').textContent = displayCount.toLocaleString(); // Add commas for readability
+    });
+</script>
