@@ -5,35 +5,7 @@
         <div id="header-carousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100" style="height: 500px; object-fit: cover" src="{{asset('assets/images/banner/1.png')}}" alt="Image">
-                    <div class="carousel-caption">
-                        <div class="container">
-                            <div class="row justify-content-start">
-                                <div class="col-lg-7 text-start">
-                                    <h1 class="display-1 text-white animated slideInRight mb-3">Genetics Laboratory at IISER (MOHALI)</h1>
-{{--                                    <p class="mb-5 animated slideInRight">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue, iaculis id elit eget, ultrices pulvinar tortor. Quisque vel lorem porttitor, malesuada arcu quis, fringilla risus.</p>--}}
-{{--                                    <a href="index.html" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a>--}}
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
                     <img class="w-100" style="height: 500px; object-fit: cover" src="{{asset('assets/images/banner/2.png')}}" alt="Image">
-                    <div class="carousel-caption">
-                        <div class="container">
-                            <div class="row justify-content-end">
-                                <div class="col-lg-7 text-end">
-                                    <h1 class="display-1 text-white animated slideInLeft mb-3">Genetics Laboratory at IISER (MOHALI)</h1>
-{{--                                    <p class="mb-5 animated slideInLeft">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue, iaculis id elit eget, ultrices pulvinar tortor. Quisque vel lorem porttitor, malesuada arcu quis, fringilla risus.</p>--}}
-{{--                                    <a href="index.html" class="btn btn-primary py-3 px-5 animated slideInLeft">Explore More</a>--}}
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item ">
-                    <img class="w-100" style="height: 500px; object-fit: cover" src="{{asset('assets/images/banner/3.png')}}" alt="Image">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-start">
@@ -41,6 +13,21 @@
                                     <h1 class="display-1 text-white animated slideInRight mb-3">Genetics Laboratory at IISER (MOHALI)</h1>
                                     {{--                                    <p class="mb-5 animated slideInRight">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue, iaculis id elit eget, ultrices pulvinar tortor. Quisque vel lorem porttitor, malesuada arcu quis, fringilla risus.</p>--}}
                                     {{--                                    <a href="index.html" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a>--}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="carousel-item ">
+                    <img class="w-100" style="height: 500px; object-fit: cover" src="{{asset('assets/images/banner/3.png')}}" alt="Image">
+                    <div class="carousel-caption">
+                        <div class="container">
+                            <div class="row justify-content-end">
+                                <div class="col-lg-7 text-end">
+                                    <h1 class="display-1 text-white animated slideInLeft mb-3">Genetics Laboratory at IISER (MOHALI)</h1>
+{{--                                    <p class="mb-5 animated slideInLeft">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur tellus augue, iaculis id elit eget, ultrices pulvinar tortor. Quisque vel lorem porttitor, malesuada arcu quis, fringilla risus.</p>--}}
+{{--                                    <a href="index.html" class="btn btn-primary py-3 px-5 animated slideInLeft">Explore More</a>--}}
                                 </div>
                             </div>
                         </div>

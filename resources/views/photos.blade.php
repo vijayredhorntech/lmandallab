@@ -60,16 +60,6 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <a href="{{asset('assets/images/gallery/5.jpg')}}" target="_blank"><img class="img-fluid w-100" style="height: 300px; object-fit: cover" src="{{asset('assets/images/gallery/5.jpg')}}" alt=""></a>
-                        </div>
-                        <div class="text-center p-4">
-                            <h5 class="mb-1">Lolitika Mandal Lab</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item">
-                        <div class="position-relative overflow-hidden">
                             <a href="{{asset('assets/images/gallery/6.jpg')}}" target="_blank"><img class="img-fluid w-100" style="height: 300px; object-fit: cover" src="{{asset('assets/images/gallery/6.jpg')}}" alt=""></a>
                         </div>
                         <div class="text-center p-4">
