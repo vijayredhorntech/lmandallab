@@ -19,7 +19,7 @@
             ],
             [
                 'name' => 'Devki',
-                'role' => 'PhD',
+                'role' => 'PhD Student',
                 'image' => asset('assets/images/labMembers/Devki.png'),
                 'bio' =>
                     'MSc Zoology, Panjab University I am a final-year PhD student in Dr. Lolitika Mandal\'s lab. I am working on the side effects of the most commonly used hypertension drugs (Angiotensin-converting enzyme inhibitors) on the blood cells both in Drosophila melanogaster and the human blood cell line. Additionally, we are interested in knowing the long-term effect of Angiotensin-converting enzyme inhibitors on immunity. I\'m from Kullu-Manali and I adore mountains, India\'s most picturesque hill station. Beyond my academic pursuits, whenever I find some time, I love to go on long drives with my friends. And listening to my regional folk songs are my go-to happiness.',
@@ -35,7 +35,7 @@
             ],
             [
                 'name' => 'Md Kaizer',
-                'role' => 'PhD',
+                'role' => 'PhD Student',
                 'image' => asset('assets/images/labMembers/Kaizer.png'),
                 'bio' =>
                     'I have completed my post-graduation on Zoology from University of Burdwan, West Bengal. My strong passion for stem cell biology and curiosity about developmental biology have driven me to join the Developmental Genetics Laboratory at IISER Mohali. Moving forward, I\'m eager to delve deeper into this field, aiming to give back to the society and the realm of biology that has fueled my passion. I\'m quite the movie enthusiast and love spending my free time expanding my knowledge beyond my field of research.',
@@ -51,7 +51,7 @@
             ],
             [
                 'name' => 'Deepak',
-                'role' => 'PhD',
+                'role' => 'PhD Student',
                 'image' => asset('assets/images/labMembers/Deepak.png'),
                 'bio' =>
                     'I did my undergraduate from Kurukshetra University, kurukshetra in Biochemistry majors. Then I went to University of Hyderabad, Hyderabad for M.Sc. in Biochemistry. Currently I am working as doctrate student with Prof. Lolitika Mandal at IISER Mohali, since September 2021. I am interested in studying the metabolic cues that dictates the maintenence and division of Hematopoiesis stem cells in Drosophila melanogaster. I am also a PMRF fellow at IISER Mohali. Poetry is the Science of Virtual Reality!',
@@ -67,7 +67,7 @@
             ],
             [
                 'name' => 'Abhijith P',
-                'role' => 'PhD',
+                'role' => 'PhD Student',
                 'image' => asset('assets/images/labMembers/Abhijit.png'),
                 'bio' =>
                     'I hold a Master\'s degree in Zoology from the University of Kerala and have been a member of the Drosophila Research Lab since 2021. My research focuses on unravelling the molecular networks that govern wound healing and hematopoietic niche maintenance in Drosophila melanogaster. The ultimate goal of my work is to help develop better strategies for tissue repair and regeneration. Outside the lab, you\'ll usually find me playing cricket, football, or diving into video games.',
@@ -83,7 +83,7 @@
             ],
             [
                 'name' => 'Aiswarya K P',
-                'role' => 'PhD',
+                'role' => 'PhD Student',
                 'image' => asset('assets/images/labMembers/Aishwarya.png'),
                 'bio' =>
                     'I am Aiswarya K. P., a PhD student at the Indian Institute of Science Education and Research (IISER) Mohali, where I joined the Drosophila Research Laboratory in 2022. I hold a Master\'s degree in Integrative Biology from the Inter University Centre for Evolutionary and Integrative Biology in Kariavattom, Trivandrum. My current research focuses on investigating the effects of circadian rhythm disruption on blood cell homeostasis, utilizing Drosophila melanogaster as a model organism. This work aims to enhance our understanding of the intricate relationships between circadian biology and hematopoiesis. Outside of my academic pursuits, I enjoy drawing, singing, and watching films, which provide me with a creative outlet and a refreshing balance to my research endeavors.',
@@ -99,7 +99,7 @@
             ],
             [
                 'name' => 'Suman Kumar Singh',
-                'role' => 'PhD',
+                'role' => 'PhD Student',
                 'image' => asset('assets/images/labMembers/Suman.png'),
                 'bio' =>
                     'I hold a Master\'s degree in Zoology from Banaras Hindu University, specializing in Cytogenetics, and currently I\'m am pursuing my career as a PhD Scholar. As a PhD scholar, I am passionate about unraveling the cellular and genetic mechanisms governing stem cell regulation and maintenance. My research focuses on understanding the intricate molecular pathways and genetic networks controlling stem cell self-renewal, differentiation, and fate decisions.',
@@ -115,7 +115,7 @@
             ],
             [
                 'name' => 'Tamanna',
-                'role' => 'PhD',
+                'role' => 'PhD Student',
                 'image' => asset('assets/images/labMembers/Tamanna.png'),
                 'bio' =>
                     'Hi, I\'m Tamanna, a PhD student working with Dr. Lolitika Mandal. Since joining, I\'ve been working with Drosophila, specifically dissecting larval lymph glands to study hematopoiesis development using various markers. It\'s been an exciting first experience with dissection, especially with such a small organism! Outside the lab, I enjoy trekking and love to explore mountains. In my free time, I love watching science fiction movies, listening to music, and exploring my creative side through art, as it\'s a true passion of mine.',
@@ -131,7 +131,7 @@
             ],
             [
                 'name' => 'Ayushi Khandelwal',
-                'role' => 'PhD',
+                'role' => 'PhD Student',
                 'image' => asset('assets/images/labMembers/Ayushi.png'),
                 'bio' =>
                     'Hello, I\'m Ayushi Khandelwal, and I recently joined Lolitika Mandal\'s team. Currently, I\'m working on dissecting Drosophila larvae, mounting lymph glands, and studying hematopoiesis in Drosophila. Outside the lab, I enjoy dancing and listening to music in my free time.',
@@ -243,8 +243,8 @@
             ],
             [
                 'name' => 'Gurvinder Singh',
-                'role' => 'Lab Helper',
-                'image' => asset('assets/images/labMembers/No_Image_Available.jpg'),
+                'role' => 'Lab Assistant',
+                'image' => asset('assets/images/labMembers/Gurvinder.png'),
                 'bio' => '',
                 'x_username' => '',
                 'email' => '',
@@ -415,7 +415,7 @@
     @endphp
 
     <div class="container-fluid page-header py-3 mb-5 wow fadeIn" data-wow-delay="0.1s"
-        style="background: linear-gradient(rgba(3, 27, 78, .3), rgba(3, 27, 78, .3)), url({{ asset('assets/images/MemberMain.jpeg') }}) center center no-repeat; background-size: cover; height: 500px;">
+        style="background: linear-gradient(rgba(3, 27, 78, .3), rgba(3, 27, 78, .3)), url({{ asset('assets/images/MemberMain.jpeg') }}) center top 65% no-repeat; background-size: cover; height: 600px;">
         <div class="container text-center py-3 mt-2">
             <h1 class="display-2 text-white mb-2 animated slideInDown">Team</h1>
             <nav aria-label="breadcrumb animated slideInDown">

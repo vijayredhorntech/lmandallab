@@ -43,13 +43,7 @@
                             </p>
                         </li>
 
-                        <li>
-                            <p class="mb-4" style="color: black">Ghosh S, Leier A, Marquez-Lago TT.
-
-                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Open Library of Bioscience.
-                                    Cancer 2 (1), 4-26</span></a>
-                            </p>
-                        </li>
+                        
 
                         <li>
                             <p class="mb-4" style="color: black">Ghosh S, Chakraborti S, Devi D, Sahu R, Mandal S, Mandal L.

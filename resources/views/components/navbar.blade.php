@@ -61,7 +61,7 @@
                     <a href="{{route('index')}}" class="nav-item nav-link {{Route::currentRouteName()==='index'?'active':''}}">Home</a>
                     <a href="{{route('research')}}" class="nav-item nav-link {{Route::currentRouteName()==='research'?'active':''}}">Research</a>
                     <a href="{{route('publications')}}" class="nav-item nav-link {{Route::currentRouteName()==='publications'?'active':''}}">Publications</a>
-                    <a href="{{route('members')}}" class="nav-item nav-link {{Route::currentRouteName()==='members'?'active':''}}">Members</a>
+                    <a href="{{route('team')}}" class="nav-item nav-link {{Route::currentRouteName()==='team'?'active':''}}">Team</a>
                     <a href="{{route('photos')}}" class="nav-item nav-link {{Route::currentRouteName()==='photos'?'active':''}}">Photos</a>
                     <a href="{{route('collaborator')}}" class="nav-item nav-link {{Route::currentRouteName()==='collaborator'?'active':''}}">Collaborator</a>
                 </div>

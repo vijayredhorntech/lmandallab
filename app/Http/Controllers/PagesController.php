@@ -16,9 +16,9 @@ class PagesController extends Controller
     {
         return view('publications');
     }
-    public function members()
+    public function team()
     {
-        return view('members');
+        return view('team');
     }
     public function photos()
     {

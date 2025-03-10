@@ -36,7 +36,7 @@
             ],
             [
                 'name' => 'Dheeraj Kumar',
-                'role' => 'PhD',
+                'role' => 'PhD Student',
                 'image' => asset('assets/images/labMembers/Molecular Cell and Development Biology Lab/Dheeraj.png'),
                 'bio' =>
                     "Hey everyone, I hold an MSc in Biotechnology from the School of Biotechnology, BHU, and I am currently conducting research at IISER Mohali from Jan 2022. My work focuses on exploring the inter-organ communication network activated by the heart, aiming to understand its role in maintaining systemic homeostasis. Using Drosophila as a model organism, I am uncovering key insights into how the heart influences other organs in the body. When I'm not in the lab, I channel my creativity into painting and sketching, and I stay active by enjoying regular gym workouts.",
@@ -52,7 +52,7 @@
             ],
             [
                 'name' => 'Sameeksha Verma',
-                'role' => 'PhD',
+                'role' => 'PhD Student',
                 'image' => asset('assets/images/labMembers/Molecular Cell and Development Biology Lab/Sameeksha.png'),
                 'bio' =>
                     "I completed my master’s degree in Stem Cell and Tissue Engineering at Panjab University. In 2023, I began my PhD at IISER Mohali in the Cell and Molecular Developmental Lab. In multicellular organisms, organs, while specialized in their functions, rely on interorgan communication for maintaining homeostasis and adapting to external changes. By using Drosophila as a model organism, I aim to explore how metabolic alterations in one tissue influence stem cell behavior in another, potentially illuminating broader principles relevant to multicellular organisms. In my spare time, I enjoy painting, watching thrillers, and listening to '90s music.",
@@ -68,7 +68,7 @@
             ],
             [
                 'name' => 'Anmol',
-                'role' => 'PhD',
+                'role' => 'PhD Student',
                 'image' => asset('assets/images/labMembers/Molecular Cell and Development Biology Lab/Anmol.png'),
                 'bio' =>
                     'Hey there! I’m Anmol, and I spend most of my time in the lab working with fruit flies—dissecting larvae, setting up crosses, and investigating the role of exosomes in intercellular communication. My research focuses on understanding how these tiny vesicles contribute to molecular signaling in Drosophila. When I’m not peering into a microscope, I’m out exploring the world—whether that’s traveling to new places, leveling up in my favorite games, or geeking out over the latest tech. I also love meeting new people and exchanging ideas, so if you ever want to chat about science, gaming, or the best travel spots, I’m all ears!',
@@ -84,7 +84,7 @@
             ],
             [
                 'name' => 'Pooja Chaudhary',
-                'role' => 'PhD',
+                'role' => 'PhD Student',
                 'image' => asset('assets/images/labMembers/Molecular Cell and Development Biology Lab/Pooja.png'),
                 'bio' =>
                     'I completed my Bachelor of Science from Xavier’s College, my Master of Science from Rajasthan University, and I am currently pursuing my PhD at IISER Mohali. My primary research interest lies in understanding how diabetes and high-fat diets influence cardiac health. I am passionate about uncovering the mechanisms through which metabolic changes, inflammation, and lipid accumulation impact the cardiovascular system. This work aims to provide insights that can contribute to better prevention and treatment strategies for heart diseases. Outside of my research, I enjoy hobbies that inspire creativity and balance in my life. Cooking, my favorite pastime, allows me to experiment and think innovatively—skills that often complement my scientific approach. I also appreciate music, movies, and television, which offer moments of relaxation and fresh perspectives. Additionally, as a highly social person, I thrive on engaging in meaningful conversations and connecting with others in a positive way, which enhances my ability to collaborate effectively in research settings.',
