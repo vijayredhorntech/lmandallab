@@ -45,7 +45,7 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <a href="{{asset('assets/images/gallery/'.$image['src'])}}" target="_blank">
+                            <a href="{{asset('assets/images/Science/'.$image['src'])}}" target="_blank">
                                 <img class="img-fluid w-100" style="height: 300px; object-fit: cover" src="{{asset('assets/images/Science/'.$image['src'])}}" alt="">
                             </a>
                         </div>
@@ -67,7 +67,7 @@
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <a href="{{asset('assets/images/gallery/'.$photo['src'])}}" target="_blank">
+                            <a href="{{asset('assets/images/banner/'.$photo['src'])}}" target="_blank">
                                 <img class="img-fluid w-100" style="height: 300px; object-fit: cover" src="{{asset('assets/images/banner/'.$photo['src'])}}" alt="">
                             </a>
                         </div>

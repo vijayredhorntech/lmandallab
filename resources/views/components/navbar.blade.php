@@ -19,7 +19,7 @@
 
 
 <!-- Brand Start -->
-<div class="container-fluid pt-4 pb-5 d-none d-lg-flex" style="background-color: black; width: 100%;">
+<div class="container-fluid pt-4 pb-5 d-none d-lg-flex" style="background-color: black; width: 100%; height: 200px;">
     <div class="container pb-2" style="background-color: black;">
         <div class="d-flex align-items-center justify-content-between h-100">
             <!-- Left Image (Flipped) -->
@@ -46,7 +46,7 @@
 
 
 <!-- Navbar Start -->
-<div class="container-fluid sticky-top">
+<div class="container-fluid sticky-top" style="margin-top: -40px;">
     <div class="container">
         <nav class="navbar navbar-expand-lg navbar-light bg-white py-lg-0 px-lg-3">
             <a href="{{route('index')}}" class="navbar-brand d-lg-none">
@@ -64,12 +64,6 @@
                     <a href="{{route('members')}}" class="nav-item nav-link {{Route::currentRouteName()==='members'?'active':''}}">Members</a>
                     <a href="{{route('photos')}}" class="nav-item nav-link {{Route::currentRouteName()==='photos'?'active':''}}">Photos</a>
                     <a href="{{route('collaborator')}}" class="nav-item nav-link {{Route::currentRouteName()==='collaborator'?'active':''}}">Collaborator</a>
-{{--                    <div class="nav-item dropdown">--}}
-{{--                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>--}}
-{{--                        <div class="dropdown-menu bg-light m-0">--}}
-{{--                            <a href="#" class="dropdown-item">Features</a>--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
                 </div>
                 
             </div>
