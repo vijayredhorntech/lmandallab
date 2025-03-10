@@ -19,27 +19,29 @@
 
 
 <!-- Brand Start -->
-<div class="container-fluid bg-primary text-white pt-4 pb-5 d-none d-lg-flex">
-    <div class="container pb-2">
-        <div class="d-flex align-items-center justify-content-between">
-            <div class="d-flex">
-                <i class="bi bi-telephone-inbound fs-2"></i>
-                <div class="ms-3">
-                    <h5 class="text-white mb-0">Call Now</h5>
-                    <span>+91-172-0000000</span>
-                </div>
+<div class="container-fluid pt-4 pb-5 d-none d-lg-flex" style="background-color: black; width: 100%;">
+    <div class="container pb-2" style="background-color: black;">
+        <div class="d-flex align-items-center justify-content-between h-100">
+            <!-- Left Image (Flipped) -->
+            <div style="transform: scaleX(-1);">
+                <img src="{{ asset('assets/images/banner/Picture1.png') }}" alt="Left Image" style="height: 200px;">
             </div>
-            <a href="{{route('index')}}" class="h1 text-white mb-0">Lolitika Mandal <span class="text-dark">Lab</span></a>
-            <div class="d-flex">
-                <i class="bi bi-envelope fs-2"></i>
-                <div class="ms-3">
-                    <h5 class="text-white mb-0">Mail Now</h5>
-                    <span>lab@lolitikamlab.in</span>
-                </div>
+
+            <!-- Title (Centered) -->
+            <div class="text-center">
+                <a href="{{route('index')}}" class="h1 text-white mb-0" style="background-color: black;">Developmental Genetics Laboratory</a>
+            </div>
+            
+            <!-- Right Image (Normal) -->
+            <div>
+                <img src="{{ asset('assets/images/banner/Picture1.png') }}" alt="Right Image" style="height: 200px;">
             </div>
         </div>
     </div>
 </div>
+
+
+
 <!-- Brand End -->
 
 
@@ -61,7 +63,7 @@
                     <a href="{{route('publications')}}" class="nav-item nav-link {{Route::currentRouteName()==='publications'?'active':''}}">Publications</a>
                     <a href="{{route('members')}}" class="nav-item nav-link {{Route::currentRouteName()==='members'?'active':''}}">Members</a>
                     <a href="{{route('photos')}}" class="nav-item nav-link {{Route::currentRouteName()==='photos'?'active':''}}">Photos</a>
-                    <a href="{{route('contact')}}" class="nav-item nav-link {{Route::currentRouteName()==='contact'?'active':''}}">Contact</a>
+                    <a href="{{route('collaborator')}}" class="nav-item nav-link {{Route::currentRouteName()==='collaborator'?'active':''}}">Collaborator</a>
 {{--                    <div class="nav-item dropdown">--}}
 {{--                        <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>--}}
 {{--                        <div class="dropdown-menu bg-light m-0">--}}
@@ -69,12 +71,7 @@
 {{--                        </div>--}}
 {{--                    </div>--}}
                 </div>
-                <div class="ms-auto d-none d-lg-flex">
-                    <a class="btn btn-sm-square btn-primary ms-2" href="{{route('index')}}"><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-sm-square btn-primary ms-2" href="{{route('index')}}"><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-sm-square btn-primary ms-2" href="{{route('index')}}"><i class="fab fa-linkedin-in"></i></a>
-                    <a class="btn btn-sm-square btn-primary ms-2" href="{{route('index')}}"><i class="fab fa-youtube"></i></a>
-                </div>
+                
             </div>
         </nav>
     </div>

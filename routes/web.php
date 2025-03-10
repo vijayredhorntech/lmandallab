@@ -20,8 +20,9 @@ require __DIR__.'/auth.php';
 Route::get('/', [PagesController::class, 'index'])->name('index');
 Route::get('/research', [PagesController::class, 'research'])->name('research');
 Route::get('/publications', [PagesController::class, 'publications'])->name('publications');
+Route::get('/onlineResources', [PagesController::class, 'onlineResources'])->name('onlineResources');
 Route::get('/members', [PagesController::class, 'members'])->name('members');
 Route::get('/photos', [PagesController::class, 'photos'])->name('photos');
-Route::get('/contact', [PagesController::class, 'contact'])->name('contact');
+Route::get('/collaborator', [PagesController::class, 'collaborator'])->name('collaborator');
 Route::get('/test', [PagesController::class, 'test'])->name('test');
 

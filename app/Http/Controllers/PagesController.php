@@ -24,8 +24,12 @@ class PagesController extends Controller
     {
         return view('photos');
     }
-    public function contact()
+    public function collaborator()
     {
-        return view('contact');
+        return view('collaborator');
+    }
+    public function onlineResources()
+    {
+        return view('onlineResources');
     }
 }

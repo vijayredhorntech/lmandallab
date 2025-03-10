@@ -18,12 +18,13 @@
                         <a class="btn btn-link" href="{{route('index')}}">Home</a>
                         <a class="btn btn-link" href="{{route('members')}}">Members</a>
                         <a class="btn btn-link" href="{{route('photos')}}">Photos</a>
-                        <a class="btn btn-link" href="{{route('contact')}}">Contact</a>
+                        <a class="btn btn-link" href="{{route('collaborator')}}">Collaborator</a>
                     </div>
                     <div class="col-sm-6">
                         <h4 class="text-light mb-4">Popular Links</h4>
                         <a class="btn btn-link" href="{{route('research')}}">Research</a>
                         <a class="btn btn-link" href="{{route('publications')}}">Publications</a>
+                        <a class="btn btn-link" href="{{route('onlineResources')}}">Online Resources</a>
                     </div>
 {{--                    <div class="col-sm-12">--}}
 {{--                        <h4 class="text-light mb-4">Newsletter</h4>--}}

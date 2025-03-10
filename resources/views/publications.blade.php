@@ -22,435 +22,430 @@
             <div class="row g-5">
 
                 <div class="col-lg-12 wow fadeIn" data-wow-delay="0.5s">
+                    <!-- 2024 section start here -->
+                    <a href="" style="text-decoration: none">
+                        <h1 class="display-6 mb-4">2024</h1>
+                    </a>
+                    <ul>
+                        <li>
+                            <p class="mb-4" style="color: black">Ramesh P, Tiwari SK, Kaizer M, Jangra D, Ghosh K, Mandal S, Mandal L.
+
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">The NF-κB Factor Relish maintains blood progenitor homeostasis in the developing *Drosophila* lymph gland.
+                                    PLoS genetics 20 (9), e1011403</span></a>
+                            </p>
+                        </li>
+
+                        <li>
+                            <p class="mb-4" style="color: black">Gera J, Kumar D, Chauhan G, Choudhary A, Rani L, Mandal L, Mandal S.
+
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">High sugar diet–induced fatty acid oxidation potentiates cytokine-dependent cardiac ECM remodeling.
+                                    Journal of Cell Biology 223 (9)</span></a>
+                            </p>
+                        </li>
+
+                        <li>
+                            <p class="mb-4" style="color: black">Ghosh S, Leier A, Marquez-Lago TT.
+
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Open Library of Bioscience.
+                                    Cancer 2 (1), 4-26</span></a>
+                            </p>
+                        </li>
+
+                        <li>
+                            <p class="mb-4" style="color: black">Ghosh S, Chakraborti S, Devi D, Sahu R, Mandal S, Mandal L.
+
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">A conserved nutrient responsive axis mediates autophagic degradation of miRNA–mRNA hybrids in blood cell progenitors.
+                                    Nucleic acids research 52 (1), 385-403</span></a>
+                            </p>
+                        </li>
+                    </ul>
+
+                    <!-- 2023 section start here -->
+                    <a href="" style="text-decoration: none">
+                        <h1 class="display-6 mb-4">2023</h1>
+                    </a>
+                    <ul>
+                        <li>
+                            <p class="mb-4" style="color: black">Perlin JR, Anderson WJ, Bartfeld S, Couturier A, de Soysa Y, Hawley RS, et al.
+
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">ISSCR Education Committee syllabus and learning guide for enhancing stem cell literacy.
+                                    Stem Cell Reports 18 (2), 417-419</span></a>
+                            </p>
+                        </li>
+                    </ul>
+
+                    <!-- 2022 section start here -->
+                    <a href="" style="text-decoration: none">
+                        <h1 class="display-6 mb-4">2022</h1>
+                    </a>
+                    <ul>
+                        <li>
+                            <p class="mb-4" style="color: black">Gera J, Budakoti P, Suhag M, Mandal L, Mandal S.
+
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Physiological ROS controls Upd3-dependent modeling of ECM to support cardiac function in *Drosophila*.
+                                    Science Advances 8 (7), eabj4991</span></a>
+                            </p>
+                        </li>
+
+                        <li>
+                            <p class="mb-4" style="color: black">Ramesh P, Ghosh S, Mandal L.
+
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Combination of Immunofluorescence and Quantitative Fluorescence In-situ Hybridization for Analysing Differential Gene Expression in the Niche Cells of the Drosophila Lymph Gland.
+                                    Bio-protocol 12 (2), e4290-e4290</span></a>
+                            </p>
+                        </li>
+                    </ul>
+
+                    <!-- 2021 section start here -->
+                    <a href="" style="text-decoration: none">
+                        <h1 class="display-6 mb-4">2021</h1>
+                    </a>
+                    <ul>
+                        <li>
+                            <p class="mb-4" style="color: black">Kanwal A, Joshi PV, Mandal S, Mandal L.
+
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Ubx-Collier signaling cascade maintains blood progenitors in the posterior lobes of the *Drosophila* larval lymph gland.
+                                    PLoS Genetics 17 (8), e1009709</span></a>
+                            </p>
+                        </li>
+
+                        <li>
+                            <p class="mb-4" style="color: black">Amal H, Mandal L.
+
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Role of extrinsic and intrinsic factors in regulation of the hematopoietic niche.
+                                    IISERM</span></a>
+                            </p>
+                        </li>
+
+                        <li>
+                            <p class="mb-4" style="color: black">Ghosh K, Mandal L.
+
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Insulin signaling dependent Glycolysis supports hemocyte progenitor maintenance in Drosophila.
+                                    IISERM</span></a>
+                            </p>
+                        </li>
+
+                        <li>
+                            <p class="mb-4" style="color: black">Sharma SK, Mandal L.
+
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Understanding the role of actomyosin complex in the developing lymph gland of Drosophila melanogaster.
+                                    IISERM</span></a>
+                            </p>
+                        </li>
+
+                        <li>
+                            <p class="mb-4" style="color: black">Parvathy Ramesh, Nidhi Sharma Dey, Aditya Kanwal, Sudip Mandal, Lolitika Mandal.
+
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Relish plays a dynamic role in the niche to modulate Drosophila blood progenitor homeostasis in development and infection.
+                                    eLife 10</span></a>
+                            </p>
+                        </li>
+
+                        <li>
+                            <p class="mb-4" style="color: black">Bhattacharyya S.
+
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Mechanistic basis of Wound healing in adult Drosophila melanogaster.
+                                    IISERM</span></a>
+                            </p>
+                        </li>
+                    </ul>
+
                     <!-- 2020 section start here -->
                     <a href="" style="text-decoration: none">
                         <h1 class="display-6 mb-4">2020</h1>
                     </a>
                     <ul>
-
                         <li>
+                            <p class="mb-4" style="color: black">Mishra R, Kunar R, Mandal L, Alone DP, Chandrasekharan S, Tiwari AK, Tapadia MG, Mukherjee A, Roy JK.
 
-                            <p class="mb-4" style="color: black">Rakesh Mishrai, Rohit Kunarl, Lotirika Mandat,
-                                Debasmita Pankaj Alone, Shansi Chandrasekharan, Anand Krishna Tiwari, Madhu Gwatdas
-                                Tapadia, Ashim Mukherjee and lagat Kumar Roy.
-
-                                <a href="https://academic.oup.com/g3journal/article/10/8/2601/6048666?login=false"
-                                    target="_blank"><span style="font-weight: bold; color: black">A Forward Genetic
-                                        Approach to Mapping a P-Element Second Site Mutation Identifies DCP2 as a Novel
-                                        Tumour Suppressor in Drosophila melanogaster. G3: GENES, GENOMES, GENETICS Early
-                                        online June 26, 2020;</span></a>
+                                <a href="https://academic.oup.com/g3journal/article/10/8/2601/6048666?login=false" target="_blank"><span style="font-weight: bold; color: black">A Forward Genetic Approach to Mapping a P-Element Second Site Mutation Identifies DCP2 as a Novel Tumour Suppressor in Drosophila melanogaster. G3: GENES, GENOMES, GENETICS Early online June 26, 2020;</span></a>
 
                                 <u><i>Journal of Biosciences</i></u>
 
                                 doi: 10.1083/jcb.201711006 (2018)
-
                             </p>
-
                         </li>
 
                         <li>
+                            <p class="mb-4" style="color: black">Tiwari SK, Toshniwal AG, Mandal S, Mandal L.
 
-                            <p class="mb-4" style="color: black">Satish Kumar Thwart Ashish Ganeshlatji ToshMwaL Sudip
-                                Mandal and LoMika Mandal.
-
-                                <a href="https://elifesciences.org/digests/53247/burning-fat-to-make-mature-blood-cells"
-                                    target="_blank"><span style="font-weight: bold; color: black">Fatty acid β-oxidation
-                                        is required for the differentiation of larval hematopoietic progenitors in
-                                        Drosophila. eLife;9:e53247 DOI: 10.7554/eLife.53247</span></a>
+                                <a href="https://elifesciences.org/digests/53247/burning-fat-to-make-mature-blood-cells" target="_blank"><span style="font-weight: bold; color: black">Fatty acid β-oxidation is required for the differentiation of larval hematopoietic progenitors in Drosophila. eLife;9:e53247 DOI: 10.7554/eLife.53247</span></a>
 
                                 <u><i>Article selected for eLife digest:</i></u>
-
                             </p>
-
                         </li>
 
+                        <li>
+                            <p class="mb-4" style="color: black">Kunar R, Mishra R, Mandal L, Alone DP, Chandrasekharan S, Roy JK.
+
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">A forward genetic approach to mapping a*P*-element second site mutation identifies*DCP2*as a novel tumor suppressor in*Drosophila melanogaster*.</span></a>
+                            </p>
+                        </li>
+
+                        <li>
+                            <p class="mb-4" style="color: black">Mandal L.
+
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">A Forward Genetic Approach to Mapping a P-Element Second Site Mutation Identifies DCP2 as a Novel Tumor Suppressor in Drosophila melanogaster.
+                                    Genetics Society of America</span></a>
+                            </p>
+                        </li>
+
+                        <li>
+                            <p class="mb-4" style="color: black">Aiswarya AS.
+
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">The requirement of Unpaired2 (upd2), the ligand for JAK-STAT signaling pathway for the homeostasis of Drosophila larval hematopoietic organ.
+                                    IISERM</span></a>
+                            </p>
+                        </li>
                     </ul>
+
                     <!-- 2019 section start here -->
                     <a href="" style="text-decoration: none">
                         <h1 class="display-6 mb-4">2019</h1>
                     </a>
                     <ul>
                         <li>
-
                             <p class="mb-4" style="color: black">Sharma 5K, Ghosh 5, Geetha AR, Mandal 5, Mandal L.
 
-                                <a href="" target="_blank"><span style="font-weight: bold; color: black">Cell
-                                        Adhesion- Mediated Actomyosin Assembly Regulates the Activity of Cubitus
-                                        Interruptus for Hematopoietic Progenitor Maintenance in Drosophila. Genetics.
-                                        Aug; 212(4):1279-1300. doi: 10.1534/genetics.119.302209.</span></a>
+                                <a href="" target="_blank"><span style="font-weight: bold; color: black">Cell Adhesion- Mediated Actomyosin Assembly Regulates the Activity of Cubitus Interruptus for Hematopoietic Progenitor Maintenance in Drosophila. Genetics. Aug; 212(4):1279-1300. doi: 10.1534/genetics.119.302209.</span></a>
 
                                 <u><i>Selected for Cover of an issue in Genetics:</i></u>
 
                                 Volume 214 Issue 3, March 2020
-
                             </p>
-
                         </li>
                         <li>
+                            <p class="mb-4" style="color: black">Rakesh Mishrai, Rohit Kunarl, Lotirika Mandat, Debasmita Pankaj Alone, Shansi Chandrasekharan, Anand Krishna Tiwari, Madhu Gwatdas Tapadia, Ashim Mukherjee and lagat Kumar Roy.
 
-                            <p class="mb-4" style="color: black">Rakesh Mishrai, Rohit Kunarl, Lotirika Mandat,
-                                Debasmita Pankaj Alone, Shansi Chandrasekharan, Anand Krishna Tiwari, Madhu Gwatdas
-                                Tapadia, Ashim Mukherjee and lagat Kumar Roy.
+                                <span style="font-weight: bold; color: black">Lar maintains the homeostasis of the hematopoietic organ in Drosophila by regulating insulin signaling in the niche. Development. Dec 23;146(24). pii: dev178202. doi: 10.1242/dev.178202.</span>
 
-                                <span style="font-weight: bold; color: black">Lar maintains the homeostasis of the
-                                    hematopoietic organ in Drosophila by regulating insulin signaling in the niche.
-                                    Development. Dec 23;146(24). pii: dev178202. doi: 10.1242/dev.178202.</span>
-
-                                <a
-                                    href="https://www.thehindubusinessline.com/news/science/this-iiser-mohali-finding-may-help-us-understand-diabetes-better/article30457796.ece">
+                                <a href="https://www.thehindubusinessline.com/news/science/this-iiser-mohali-finding-may-help-us-understand-diabetes-better/article30457796.ece">
                                     <u><i>Press coverage-1</i></u></a>
 
-                                <a
-                                    href="https://scisoup.org/article/2020/stem-cell-niche-employs-a-rheostat-to-control-insulin-signaling.html">
+                                <a href="https://scisoup.org/article/2020/stem-cell-niche-employs-a-rheostat-to-control-insulin-signaling.html">
                                     <u><i>Press coverage-2</i></u></a>
 
                                 <a href="https://www.indiaalliance.org/news/389"> <u><i>Press coverage-3</i></u></a>
-
                             </p>
-
                         </li>
                     </ul>
+
                     <!-- 2018 section start here -->
                     <a href="" style="text-decoration: none">
                         <h1 class="display-6 mb-4">2018</h1>
                     </a>
                     <ul>
                         <li>
-
                             <p class="mb-4" style="color: black">Ghosh 5, Mandal 5 and Mandal L.
 
-                                <a href="" target="_blank"><span
-                                        style="font-weight: bold; color: black">Detecting proliferation of adult
-                                        hemocytes in Drosophila by BrdU incorporation and PH3 expression in response to
-                                        bacterial infection</span></a>
+                                <a href="" target="_blank"><span style="font-weight: bold; color: black">Detecting proliferation of adult hemocytes in Drosophila by BrdU incorporation and PH3 expression in response to bacterial infection</span></a>
 
                                 <u><i> Wellcome Open Res. 2018; 3:47.</i></u>
 
                                 Published Apr 24. doi:10.12688/wellcomeopenres.14560.2
-
                             </p>
-
                         </li>
                         <li>
-
                             <p class="mb-4" style="color: black">Toshiwal AG, Gupta S, Mandal L, Mandal S
 
-                                <span style="font-weight: bold; color: black">ROS Inhibits Cell Growth by Regulating
-                                    4EBP and S6K, Independent of TOR, during Development. Developmental Cell. May
-                                    6;49(3):473-489.e9. doi: 10.1016</span>
+                                <span style="font-weight: bold; color: black">ROS Inhibits Cell Growth by Regulating 4EBP and S6K, Independent of TOR, during Development. Developmental Cell. May 6;49(3):473-489.e9. doi: 10.1016</span>
 
-                                <a
-                                    href="https://www.thehindubusinessline.com/news/science/free-radicals-may-not-be-all-bad-say-scientists/article27060207.ece">
+                                <a href="https://www.thehindubusinessline.com/news/science/free-radicals-may-not-be-all-bad-say-scientists/article27060207.ece">
                                     <u><i>Press coverage</i></u></a>
-
                             </p>
-
                         </li>
                     </ul>
+
                     <!-- 2017 section start here -->
                     <a href="" style="text-decoration: none">
                         <h1 class="display-6 mb-4">2017</h1>
                     </a>
                     <ul>
-
                         <li>
-
                             <p class="mb-4" style="color: black">Aggarwal p.Gera J, Ghosh S, Mandal L, Mandal S.
 
-                                <a href="#" target="_blank"><span
-                                        style="font-weight: bold; color: black">Activation of matrix Metalloproteinase I
-                                        by non-canonical Dpp signaling restrict Hedgehog activity to limit ectopic
-                                        photoreceptor differentiation in Drosophila. Genetics. Sep;
-                                        207(1):197-213</span></a>
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Activation of matrix Metalloproteinase I by non-canonical Dpp signaling restrict Hedgehog activity to limit ectopic photoreceptor differentiation in Drosophila. Genetics. Sep; 207(1):197-213</span></a>
 
                                 doi: 10.1534/genetics.117.201053
-
                             </p>
-
                         </li>
-
                     </ul>
+
                     <!-- 2016 section start here -->
                     <a href="" style="text-decoration: none">
                         <h1 class="display-6 mb-4">2016</h1>
                     </a>
                     <ul>
                         <li>
-
                             <p class="mb-4" style="color: black">Sharma N, Ramesh P,Chugh M, Mandal S, Mandal L.
 
-                                <a href="#" target="_blank"><span
-                                        style="font-weight: bold; color: black">Decapentapelagic dependent HSCs give
-                                        rise to Hedgehog dependent blood progenitors in larval lymph gland of
-                                        Drosophila. eLife, 10.7554/eLife.</span></a>
-
-
-
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Decapentapelagic dependent HSCs give rise to Hedgehog dependent blood progenitors in larval lymph gland of Drosophila. eLife, 10.7554/eLife.</span></a>
                             </p>
-
                         </li>
                         <li>
-
                             <p class="mb-4" style="color: black">Aggarwal p.Gera J, Ghosh S, Mandal L, Mandal S.
 
-                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">"The
-                                        morphogen Decapentaplegic employs￼a two-tier mechanism to activate target
-                                        retinal determining genes during ectopic eye formation in Drosophila" Scientific
-                                        Reports, 2016, 6:1-12.</span></a>
-
-
-
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">"The morphogen Decapentaplegic employs￼a two-tier mechanism to activate target retinal determining genes during ectopic eye formation in Drosophila" Scientific Reports, 2016, 6:1-12.</span></a>
                             </p>
-
                         </li>
                     </ul>
+
                     <!-- 2015 section start here -->
                     <a href="" style="text-decoration: none">
                         <h1 class="display-6 mb-4">2015</h1>
                     </a>
                     <ul>
                         <li>
-
                             <p class="mb-4" style="color: black">Ghosh S, Singh A, Mandal L, Mandal S.
 
-                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Active
-                                        Hematopoietic Hubs in Drosophila Adults generate hemocytes and contribute to
-                                        immune response. Developmental Cell, 2015, 33: 478- 488.</span></a>
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Active Hematopoietic Hubs in Drosophila Adults generate hemocytes and contribute to immune response. Developmental Cell, 2015, 33: 478- 488.</span></a>
 
-
-
-                                <a
-                                    href="https://www.sciencedirect.com/science/article/pii/S1534580715003184?via%3Dihub">
+                                <a href="https://www.sciencedirect.com/science/article/pii/S1534580715003184?via%3Dihub">
                                     <u><i>Preview on the article</i></u></a>
 
-                                <a
-                                    href="https://www.thehindu.com/sci-tech/health/tracing-the-bone-and-the-marrow-through-the-fruitfly/article7252049.ece">
+                                <a href="https://www.thehindu.com/sci-tech/health/tracing-the-bone-and-the-marrow-through-the-fruitfly/article7252049.ece">
                                     <u><i>Press coverage-1</i></u></a>
 
-                                <a
-                                    href="https://indianexpress.com/article/india/india-others/scientists-discover-human-marrow-version-in-%20fruit-fly/">
+                                <a href="https://indianexpress.com/article/india/india-others/scientists-discover-human-marrow-version-in-%20fruit-fly/">
                                     <u><i>Press coverage-2</i></u></a>
 
                                 <a href="https://www.telegraphindia.com/science-tech/bloody-good/cid/1376556">
                                     <u><i>Press coverage-3</i></u></a>
 
-                                <a href="https://www.youtube.com/watch?v=wfTlTeTTdhU"> <u><i>Press
-                                            coverage-3</i></u></a>
-
+                                <a href="https://www.youtube.com/watch?v=wfTlTeTTdhU"> <u><i>Press coverage-3</i></u></a>
                             </p>
-
                         </li>
                     </ul>
+
                     <!-- 2011 section start here -->
                     <a href="" style="text-decoration: none">
                         <h1 class="display-6 mb-4">2011</h1>
                     </a>
                     <ul>
                         <li>
-
-                            <p class="mb-4" style="color: black">Mondol BC1, Mukherjee T1, Mandal L, Evans CJ, Sinenko
-                                SA, Martinez-Agosto JA, Banerjee U.
-                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Evans
-                                        CJ, Sinenko SA, Martinez- Agosto JA, Banerjee U. Interaction between
-                                        differentiating cell- and niche- derived signals in Cell, 2011 (7): 1589-600.
-                                        1Joint First author.</span></a>
+                            <p class="mb-4" style="color: black">Mondol BC1, Mukherjee T1, Mandal L, Evans CJ, Sinenko SA, Martinez-Agosto JA, Banerjee U.
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Evans CJ, Sinenko SA, Martinez- Agosto JA, Banerjee U. Interaction between differentiating cell- and niche- derived signals in Cell, 2011 (7): 1589-600. 1Joint First author.</span></a>
                             </p>
-
                         </li>
                         <li>
-
                             <p class="mb-4" style="color: black">Mukherjee T, Kim WS, Mandal L, Banerjee U.
 
-                                <a href="#" target="_blank"><span
-                                        style="font-weight: bold; color: black">Interaction between Notch and Hif-
-                                        alpha in development and survival of Drosophila blood cells. Science. 2011 Jun
-                                        3; 332(6034): 1210-3.</span></a>
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Interaction between Notch and Hif- alpha in development and survival of Drosophila blood cells. Science. 2011 Jun 3; 332(6034): 1210-3.</span></a>
 
                                 <u><i>Article selected for eLife digest:</i></u>
-
                             </p>
-
                         </li>
                         <li>
+                            <p class="mb-4" style="color: black">Grigorian M, Mandal L, Hakimi M,Oritiz I, Hartenstein V.
 
-                            <p class="mb-4" style="color: black">Grigorian M, Mandal L, Hakimi M,Oritiz I,
-                                Hartenstein V.
-
-                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">The
-                                        convergence of Notch and MAPK signaling specifies the blood progenitor fate in
-                                        the Drosophila mesoderm. Developmental Biology. 2011 May 1; 353(1):
-                                        105-18.</span></a>
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">The convergence of Notch and MAPK signaling specifies the blood progenitor fate in the Drosophila mesoderm. Developmental Biology. 2011 May 1; 353(1): 105-18.</span></a>
 
                                 <u><i>Article selected for eLife digest:</i></u>
-
                             </p>
-
                         </li>
                         <li>
-
                             <p class="mb-4" style="color: black">Grigorian M, Mandal L, Hartenstein V.
 
-                                <a href="#" target="_blank"><span
-                                        style="font-weight: bold; color: black">Hematopoiesis at the onset of
-                                        metamorphosis: terminal differentiation and dissociation of the Drosophila lymph
-                                        gland. Developmental Genes Evolution. 2011 Aug; 221(3): 121-31.</span></a>
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Hematopoiesis at the onset of metamorphosis: terminal differentiation and dissociation of the Drosophila lymph gland. Developmental Genes Evolution. 2011 Aug; 221(3): 121-31.</span></a>
 
                                 <u><i>Article selected for eLife digest:</i></u>
 
                                 doi: 10.1007/s00427-011- 0364-6.
-
                             </p>
-
                         </li>
-
                     </ul>
+
                     <!-- 2009 section start here -->
                     <a href="" style="text-decoration: none">
                         <h1 class="display-6 mb-4">2009</h1>
                     </a>
                     <ul>
                         <li>
+                            <p class="mb-4" style="color: black">Sinenko SA, Mandal L, Martinez-Agosto JA, Banerjee U
 
-                            <p class="mb-4" style="color: black">Sinenko SA, Mandal L, Martinez-Agosto JA, Banerjee
-                                U
-
-                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Dual
-                                        role of wingless signaling in stem-like hematopoietic precursor maintenance in
-                                        Drosophila. Developmental Cell. 2009 May; 16(5): 756-63.</span></a>
-
-
-
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Dual role of wingless signaling in stem-like hematopoietic precursor maintenance in Drosophila. Developmental Cell. 2009 May; 16(5): 756-63.</span></a>
                             </p>
-
                         </li>
                     </ul>
+
                     <!-- 2007 section start here -->
                     <a href="" style="text-decoration: none">
                         <h1 class="display-6 mb-4">2007</h1>
                     </a>
                     <ul>
                         <li>
+                            <p class="mb-4" style="color: black">Loliitika Mandal, Julian Martinez-Agosto, Cory Evans, Volker Hartenstein, utpal Banerjee.
 
-                            <p class="mb-4" style="color: black">Loliitika Mandal, Julian Martinez-Agosto, Cory
-                                Evans, Volker Hartenstein, utpal Banerjee.
-
-                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">A
-                                        Hedgehog- and Antennapedia- dependent niche maintains Drosophila haematopoietic
-                                        precursors. Nature. 2007 Mar 15; 446(7133): 320- 4.</span></a>
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">A Hedgehog- and Antennapedia- dependent niche maintains Drosophila haematopoietic precursors. Nature. 2007 Mar 15; 446(7133): 320- 4.</span></a>
 
                                 doi: 10.1534/genetics.117.201053
-
                             </p>
-
                         </li>
                     </ul>
+
                     <!-- 2006 section start here -->
                     <a href="" style="text-decoration: none">
                         <h1 class="display-6 mb-4">2006</h1>
                     </a>
                     <ul>
                         <li>
-
                             <p class="mb-4" style="color: black">Volker Hartenstein,Loliitika Mandal
 
-                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">The
-                                        blood/vascular system in a phylogenetic perspective. Bioessays. 2006 Dec;
-                                        28(12): 1203-10.</span></a>
-
-
-
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">The blood/vascular system in a phylogenetic perspective. Bioessays. 2006 Dec; 28(12): 1203-10.</span></a>
                             </p>
-
                         </li>
                         <li>
+                            <p class="mb-4" style="color: black">de velasco B, Mandal L,Mkrtchyan M, Hartenstein V. Dev Genes Evol.
 
-                            <p class="mb-4" style="color: black">de velasco B, Mandal L,Mkrtchyan M, Hartenstein V.
-                                Dev Genes Evol.
-
-                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">S
-                                        ubdivision and developmental fate of the head in Drosophila melanogaster 2006
-                                        Jan; 216(1): 39-51.</span></a>
-
-
-
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">S ubdivision and developmental fate of the head in Drosophila melanogaster 2006 Jan; 216(1): 39-51.</span></a>
                             </p>
-
                         </li>
                     </ul>
+
                     <!-- 2005 section start here -->
                     <a href="" style="text-decoration: none">
                         <h1 class="display-6 mb-4">2005</h1>
                     </a>
                     <ul>
                         <li>
+                            <p class="mb-4" style="color: black">Alone DP, Tiwari AK, Mandal L, Li M, Mechler BM, Roy JK.
 
-                            <p class="mb-4" style="color: black">Alone DP, Tiwari AK, Mandal L, Li M, Mechler BM,
-                                Roy JK.
-
-                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Rab11
-                                        is required during Drosophila eye development. International Journal of
-                                        Developmental Biology 2005; 49(7): 873-9.</span></a>
-
-
-
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Rab11 is required during Drosophila eye development. International Journal of Developmental Biology 2005; 49(7): 873-9.</span></a>
                             </p>
-
                         </li>
                     </ul>
+
                     <!-- 2004 section start here -->
                     <a href="" style="text-decoration: none">
                         <h1 class="display-6 mb-4">2004</h1>
                     </a>
                     <ul>
                         <li>
+                            <p class="mb-4" style="color: black">Lolitika Mandal, karin Dumstrei, and Volker Hartenstein.
 
-                            <p class="mb-4" style="color: black">Lolitika Mandal, karin Dumstrei, and Volker
-                                Hartenstein.
-
-                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Role
-                                        of FGFR Signaling in the Morphogenesis of the Drosophila Visceral Musculature.
-                                        Development Dynamics. 2004 Oct; 231(2): 342-8</span></a>
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Role of FGFR Signaling in the Morphogenesis of the Drosophila Visceral Musculature. Development Dynamics. 2004 Oct; 231(2): 342-8</span></a>
 
                                 doi: 10.1534/genetics.117.201053
-
                             </p>
-
                         </li>
                         <li>
+                            <p class="mb-4" style="color: black">Lolitika Mandal, utpal Banerjee, and Volker Hartenstein.
 
-                            <p class="mb-4" style="color: black">Lolitika Mandal, utpal Banerjee, and Volker
-                                Hartenstein.
-
-                                <a href="#" target="_blank"><span
-                                        style="font-weight: bold; color: black">Evidence for a fruit fly hemangioblast
-                                        and similarities between lymph-gland hematopoiesis in fruit fly and mammal
-                                        aorta-gonadal-mesonephros mesoderm. Nature Genetics. 2004 Sep; 36(9):
-                                        1019-23.</span></a>
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Evidence for a fruit fly hemangioblast and similarities between lymph-gland hematopoiesis in fruit fly and mammal aorta-gonadal-mesonephros mesoderm. Nature Genetics. 2004 Sep; 36(9): 1019-23.</span></a>
 
                                 doi: 10.1534/genetics.117.201053
-
                             </p>
-
                         </li>
                     </ul>
+
                     <a href="" style="text-decoration: none">
                         <h1 class="display-6 mb-4">Book Chapter:</h1>
                     </a>
                     <ul>
                         <li>
-
                             <p class="mb-4" style="color: black">
-
-                                <a href="#" target="_blank"><span
-                                        style="font-weight: bold; color: black">Genetic Dissection of Drosophila
-                                        Hematopoiesis Cory J Evans, Sergey Sinenko, Lolitika Mandal, Julian
-                                        Martinez-Agosto, Volker Hartenstein, Utpal Banerjee. In Advances in
-                                        Developmental Biology, 2007. Book chapter. Rolf Bodmer, Editor</span></a>
-
-
-
+                                <a href="#" target="_blank"><span style="font-weight: bold; color: black">Genetic Dissection of Drosophila Hematopoiesis Cory J Evans, Sergey Sinenko, Lolitika Mandal, Julian Martinez-Agosto, Volker Hartenstein, Utpal Banerjee. In Advances in Developmental Biology, 2007. Book chapter. Rolf Bodmer, Editor</span></a>
                             </p>
-
                         </li>
                     </ul>
                 </div>
@@ -460,4 +455,4 @@
         </div>
 
     </div>
-</x-app-layout>
+</x-app-layout>             
