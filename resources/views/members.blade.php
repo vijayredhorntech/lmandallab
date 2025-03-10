@@ -417,11 +417,11 @@
     <div class="container-fluid page-header py-3 mb-5 wow fadeIn" data-wow-delay="0.1s"
         style="background: linear-gradient(rgba(3, 27, 78, .3), rgba(3, 27, 78, .3)), url({{ asset('assets/images/MemberMain.jpeg') }}) center center no-repeat; background-size: cover; height: 500px;">
         <div class="container text-center py-3 mt-2">
-            <h1 class="display-2 text-white mb-2 animated slideInDown">Members</h1>
+            <h1 class="display-2 text-white mb-2 animated slideInDown">Team</h1>
             <nav aria-label="breadcrumb animated slideInDown">
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="{{ route('index') }}">Home</a></li>
-                    <li class="breadcrumb-item" aria-current="page">Members</li>
+                    <li class="breadcrumb-item" aria-current="page">Team</li>
                 </ol>
             </nav>
         </div>
