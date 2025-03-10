@@ -3,11 +3,11 @@
     @php
         // Data Arrays
         $labPhotos = [
+            ['src' => '1.jpg', 'title' => 'Lolitika Mandal Lab'],
             ['src' => '2.jpg', 'title' => 'Lolitika Mandal Lab'],
-            ['src' => '3.jpg', 'title' => 'Lolitika Mandal Lab'],
-            ['src' => '4.jpg', 'title' => 'Lolitika Mandal Lab'],
-            ['src' => '6.jpg', 'title' => 'Lolitika Mandal Lab'],
-            ['src' => '7.jpg', 'title' => 'Lolitika Mandal Lab']
+            ['src' => '3.jpeg', 'title' => 'Lolitika Mandal Lab'],
+            ['src' => '4.jpeg', 'title' => 'Lolitika Mandal Lab'],
+            ['src' => '5.jpeg', 'title' => 'Lolitika Mandal Lab']
         ];
 
         $confocalImages = [
@@ -34,28 +34,7 @@
     </div>
     <!-- Page Header End -->
 
-    <!-- Lab Photos Section -->
-    <div class="container-fluid container-team py-5">
-        <div class="container pb-5">
-            <h2 class="text-center mb-4">Lab Photos</h2>
-            <div class="row g-4">
-                @foreach($labPhotos as $photo)
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item">
-                        <div class="position-relative overflow-hidden">
-                            <a href="{{asset('assets/images/gallery/'.$photo['src'])}}" target="_blank">
-                                <img class="img-fluid w-100" style="height: 300px; object-fit: cover" src="{{asset('assets/images/gallery/'.$photo['src'])}}" alt="">
-                            </a>
-                        </div>
-                        <div class="text-center p-4">
-                            <h5 class="mb-1">{{ $photo['title'] }}</h5>
-                        </div>
-                    </div>
-                </div>
-                @endforeach
-            </div>
-        </div>
-    </div>
+   
 
     <!-- Confocal Images Section -->
     <div class="container-fluid container-team py-5">
@@ -72,6 +51,28 @@
                         </div>
                         <div class="text-center p-4">
                             <h5 class="mb-1">{{ $image['title'] }}</h5>
+                        </div>
+                    </div>
+                </div>
+                @endforeach
+            </div>
+        </div>
+    </div>
+     <!-- Lab Photos Section -->
+     <div class="container-fluid container-team py-5">
+        <div class="container pb-5">
+            <h2 class="text-center mb-4">Lab Photos</h2>
+            <div class="row g-4">
+                @foreach($labPhotos as $photo)
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item">
+                        <div class="position-relative overflow-hidden">
+                            <a href="{{asset('assets/images/gallery/'.$photo['src'])}}" target="_blank">
+                                <img class="img-fluid w-100" style="height: 300px; object-fit: cover" src="{{asset('assets/images/banner/'.$photo['src'])}}" alt="">
+                            </a>
+                        </div>
+                        <div class="text-center p-4">
+                            <h5 class="mb-1">{{ $photo['title'] }}</h5>
                         </div>
                     </div>
                 </div>
